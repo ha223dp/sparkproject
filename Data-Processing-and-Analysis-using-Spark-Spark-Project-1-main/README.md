@@ -137,6 +137,3 @@ show(10)
 
 ![](https://cdn-images-1.medium.com/max/1284/1*2WssNX_in6Yy_JwDSeBvNA.png)
 
-----------
-
-Hope this small project will give you the required understanding of how to denormalize Data tables and use Spark to perform analysis on top of the data.
